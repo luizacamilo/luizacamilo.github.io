@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Portfolios
+description: Luiza Camilo
 ---
 
-## Welcome to another page
+## Portfolios
 
 _yay_
 
