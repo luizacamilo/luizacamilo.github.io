@@ -13,6 +13,17 @@ layout: default
     - Estágio na empresa Motiva Serviços
 
 
+## Conhecimentos
+
+- ### Desenvolvimento Web:
+    - #### HTML e CSS
+    - #### Javascript
+
+- ### Ciencia de Dados
+    - #### Python
+    - #### R
+
+
 
 
 ## Repositórios
