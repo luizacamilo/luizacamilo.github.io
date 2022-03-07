@@ -18,13 +18,12 @@ layout: default
 - ### Desenvolvimento Web:
     - #### HTML e CSS
     - #### <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> Javascript 
+    - #### Django Framework
 
 
 - ### Ciencia de Dados
     - #### Python
     - #### R
-
-
 
 
 ## Repositórios
