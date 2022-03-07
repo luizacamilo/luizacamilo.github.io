@@ -2,6 +2,12 @@
 layout: default
 ---
 
+
+## Repositórios
+
+### Clique [aqui](./another-page.html) para ter acesso aos repositórios
+
+
 ## Conhecimentos
 
 - ### Desenvolvimento Web:
@@ -12,7 +18,6 @@ layout: default
     - <img src="https://img.icons8.com/color/60/000000/python--v1.png"/> <img src="https://img.icons8.com/ios-filled/60/000000/circled-r.png"/>
 
 
-## [Repositórios](./another-page.html)
 
 
 ## Experiências
