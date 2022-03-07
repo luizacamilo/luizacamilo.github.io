@@ -1,11 +1,23 @@
 ---
 layout: default
-title: Portfolios
-description: Luiza Camilo
+title: Luiza Camilo
+description: Repositórios
 ---
 
-## Portfolios
+## Repositórios
 
-_yay_
+- #### Projeto em R:
+    - https://github.com/luizacamilo/project-r
+    
+- #### Projeto para desenvolvimento front-end:
+    - https://github.com/luizacamilo/project-front
+    
+- #### Projeto em Python:
+    - https://github.com/luizacamilo/project-python
 
-[back](./)
+
+- #### Projeto em Django:
+    - https://github.com/luizacamilo/project-django
+
+
+[Voltar a pagina inicial](./)

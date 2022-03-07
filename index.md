@@ -16,9 +16,11 @@ layout: default
 ## Conhecimentos
 
 - ### Desenvolvimento Web:
-    - #### HTML e CSS
-    - #### <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> Javascript 
-    - #### Django Framework
+    - <img src="https://img.icons8.com/ios-filled/100/000000/html-5--v1.png"/>
+    - <img src="https://img.icons8.com/ios-filled/50/000000/css3.png"/>
+    - <img src="https://img.icons8.com/material-outlined/24/000000/django.png"/>
+    - <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+    - 
 
 
 - ### Ciencia de Dados
@@ -26,20 +28,7 @@ layout: default
     - #### R
 
 
-## Repositórios
 
-- #### Projeto em R:
-    - https://github.com/luizacamilo/project-r
-    
-- #### Projeto para desenvolvimento front-end:
-    - https://github.com/luizacamilo/project-front
-    
-- #### Projeto em Python:
-    - https://github.com/luizacamilo/project-python
-
-
-- #### Projeto em Django:
-    - https://github.com/luizacamilo/project-django
     
 
     
