@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Luiza Camilo
-description: Coin
+title: Repositórios
+description: Projetos concluidos ou em andamento
 ---
 
 ## Repositórios
