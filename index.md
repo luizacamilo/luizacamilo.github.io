@@ -2,8 +2,7 @@
 layout: default
 ---
 
-
-## [Repositórios](./another-page.html)
+[Repositórios](./another-page.html)
 
 
 
