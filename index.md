@@ -2,12 +2,6 @@
 layout: default
 ---
 
-[Repositórios](./another-page.html)
-
-
-
-
-
 ## Conhecimentos
 
 - ### Desenvolvimento Web:
@@ -16,6 +10,9 @@ layout: default
 
 - ### Ciencia de Dados
     - <img src="https://img.icons8.com/color/60/000000/python--v1.png"/> <img src="https://img.icons8.com/ios-filled/60/000000/circled-r.png"/>
+
+
+## [Repositórios](./another-page.html)
 
 
 ## Experiências
