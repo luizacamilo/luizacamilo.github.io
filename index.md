@@ -17,7 +17,8 @@ layout: default
 
 - ### Desenvolvimento Web:
     - #### HTML e CSS
-    - #### Javascript
+    - #### <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> Javascript 
+
 
 - ### Ciencia de Dados
     - #### Python
