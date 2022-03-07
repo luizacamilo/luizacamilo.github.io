@@ -2,7 +2,12 @@
 layout: default
 ---
 
+<p hidden>
+
 [Luiza Camilo dos Reis](./another-page.html)
+
+</p>
+
 
 ## Conhecimentos
 

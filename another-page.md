@@ -7,17 +7,15 @@ description: Projetos concluidos ou em andamento
 ## Repositórios
 
 - #### Projeto em R:
-    - https://github.com/luizacamilo/project-r
+    - <a href="https://github.com/luizacamilo/project-r">https://github.com/luizacamilo/project-r</a>
     
 - #### Projeto para desenvolvimento front-end:
-    - https://github.com/luizacamilo/project-front
+    - <a href="https://github.com/luizacamilo/project-r">https://github.com/luizacamilo/project-front</a>
     
 - #### Projeto em Python:
-    - https://github.com/luizacamilo/project-python
-
+    - <a href="https://github.com/luizacamilo/project-r">https://github.com/luizacamilo/project-python</a>
 
 - #### Projeto em Django:
-    - https://github.com/luizacamilo/project-django
-
+    - <a href="https://github.com/luizacamilo/project-r">https://github.com/luizacamilo/project-django</a>
 
 [Voltar a pagina inicial](./)
