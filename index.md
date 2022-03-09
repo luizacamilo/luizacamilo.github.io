@@ -31,7 +31,7 @@ layout: default
 ## Contato
 
 - #### E-mail:
-    - <a href="luizacamilobtu@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/gmail-new.png"/></a> <a href="https://www.linkedin.com/in/luiza-c-416650208/" target="_blank"><img src="https://img.icons8.com/color/60/000000/linkedin.png"/></a>
+<a href="luizacamilobtu@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/60/000000/gmail-new.png"/></a> <a href="https://www.linkedin.com/in/luiza-c-416650208/" target="_blank"><img src="https://img.icons8.com/color/60/000000/linkedin.png"/></a>
 
 
 
