@@ -24,10 +24,17 @@ layout: default
 
 ## Experiências
 
-
-
 - #### janeiro de 2021 - dezembro de 2021: 
     - Estágio na empresa Motiva Serviços
+
+
+## Contato
+
+- #### E-mail:
+    - <a href="luizacamilobtu@gmail.com"><img src="https://img.icons8.com/fluency/60/000000/gmail-new.png"/></a>
+
+- #### Linkedin:
+    - <a href="https://www.linkedin.com/in/luiza-c-416650208/"><img src="https://img.icons8.com/color/60/000000/linkedin.png"/></a>
 
 
 
